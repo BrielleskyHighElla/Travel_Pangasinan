@@ -1,0 +1,56 @@
+
+.card{
+  margin: 0%;
+}
+.gallery{
+  background-color: rgb(255, 255, 255);
+  padding:10px 0;
+}
+.gallery img{
+  
+  padding:0px;
+  width: 100%;
+  box-shadow: 0 0 15px rgb()
+}
+.opening{
+  text-align: center;
+}
+.awards{
+  text-align: center;
+}
+.bod{
+  background-color: black;
+}
+ul,h1,h2{
+  color:white;
+}
+p{
+  color: rgb(142, 140, 140);
+}
+.container2{
+  background-image: linear-gradient(to right,rgb(28, 28, 107), rgb(184, 169, 70));
+}
+.card{
+  background-color: black;
+}
+.card-text{
+  color: aliceblue;
+  font-family: serif;
+  font-weight: lighter;
+  font-style: italic;
+}
+.titletext{
+  margin-left: auto;
+}
+.textone{
+  color: aqua;
+}
+.means{
+  color: white;
+}
+.accordion-item{
+  background-color: rgb(188, 176, 14);
+}
+.accordion-button{
+  background-color: rgba(31, 31, 192, 0.846);
+}
